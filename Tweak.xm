@@ -1,6 +1,3 @@
-//Include our header file(s)
-#import <UIKit/UIKit.h>
-
 //Initialize the interface to interact with
 @interface SBIconListPageControl : UIView
 @end
